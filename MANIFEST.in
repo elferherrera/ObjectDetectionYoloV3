@@ -1,0 +1,2 @@
+include README.md
+include src/object_detection_yolo3/models/config/**
