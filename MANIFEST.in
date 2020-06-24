@@ -1,2 +1,3 @@
 include README.md
-include src/object_detection_yolo3/models/config/**
+include src/object_detection_yolo3/data/**
+include src/object_detection_yolo3/data/config/**
